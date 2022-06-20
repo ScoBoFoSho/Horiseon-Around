@@ -88,7 +88,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* the benefits css affects the web page's aside */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -99,13 +99,13 @@ p {
     text-align: center;
 }
 
-
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* this css styles the content below the header in the main section of the body */
 .contentplace {
     margin-bottom: 20px;
     padding: 50px;

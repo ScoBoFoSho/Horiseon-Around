@@ -1,3 +1,4 @@
+/* this asterix applies to the whole page and effects everything within */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +18,7 @@ body {
     background-position: center;
 }
 
+/* this css runs through the "anchor tag" and styles the nav bar and header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -122,6 +124,7 @@ p {
     font-size: 36px;
 }
 
+/* this styles both the general footer and the header within the footer */
 .footer, .footer h3 {
     padding: 30px;
     clear: both;

@@ -7,6 +7,7 @@
 ![Website Page 2](https://github.com/ScoBoFoSho/Horiseon-Around/blob/main/assets/images/Website-pic-two.png)
 ![Website Page 3](https://github.com/ScoBoFoSho/Horiseon-Around/blob/main/assets/images/Website-pic-three.png)
 
-Live Website: (https://scobofosho.github.io/Horiseon-Around/)
+Live Website: (https://scobofosho.github.io/Horiseon-Around/) <br/>
+
 GitHubRepository: (https://github.com/ScoBoFoSho/Horiseon-Around)
 
